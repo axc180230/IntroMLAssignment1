@@ -1,0 +1,78 @@
+﻿mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,car_name
+16,8,302,140,4141,14,74,1,ford gran torino
+30,4,111,80,2155,14.8,77,1,buick opel isuzu deluxe
+23,4,122,86,2220,14,71,1,mercury capri 2000
+28,4,98,80,2164,15,72,1,dodge colt (sw)
+19,6,232,100,2634,13,71,1,amc gremlin
+14,8,400,175,4385,12,72,1,pontiac catalina
+14,8,351,148,4657,13.5,75,1,ford ltd
+16,8,318,150,4190,13,76,1,dodge coronet brougham
+21,4,140,72,2401,19.5,73,1,chevrolet vega
+15,6,258,110,3730,19,75,1,amc matador
+24.5,4,151,88,2740,16,77,1,pontiac sunbird coupe
+19.2,6,231,105,3535,19.2,78,1,pontiac phoenix lj
+26,4,96,69,2189,18,72,2,renault 12 (sw)
+22,6,232,112,2835,14.7,82,1,ford granada l
+28.1,4,141,80,3230,20.4,81,2,peugeot 505s turbo diesel
+25,6,181,110,2945,16.4,82,1,buick century limited
+29,4,97,78,1940,14.5,77,2,volkswagen rabbit custom
+19.4,8,318,140,3735,13.2,78,1,dodge diplomat
+25.4,6,168,116,2900,12.6,81,3,toyota cressida
+20.2,6,200,88,3060,17.1,81,1,ford granada gl
+13,8,318,150,3940,13.2,76,1,plymouth volare premier v8
+20.6,6,231,105,3380,15.8,78,1,buick century special
+30,4,146,67,3250,21.8,80,2,mercedes-benz 240d
+38,4,91,67,1995,16.2,82,3,datsun 310 gx
+20,6,225,100,3651,17.7,76,1,dodge aspen se
+31.5,4,89,71,1990,14.9,78,2,volkswagen scirocco
+21.5,6,231,115,3245,15.4,79,1,pontiac lemans v6
+40.8,4,85,65,2110,19.2,80,3,datsun 210
+19,6,156,108,2930,15.5,76,3,toyota mark ii
+15,8,350,145,4440,14,75,1,chevrolet bel air
+18.1,6,258,120,3410,15.1,78,1,amc concord d/l
+39.1,4,79,58,1755,16.9,81,3,toyota starlet
+22.5,6,232,90,3085,17.6,76,1,amc hornet
+24.5,4,98,60,2164,22.1,76,1,chevrolet woody
+36.1,4,98,66,1800,14.4,78,1,ford fiesta
+46.6,4,86,65,2110,17.9,80,3,mazda glc
+13,8,302,140,4294,16,72,1,ford gran torino (sw)
+15,8,318,150,3777,12.5,73,1,dodge coronet custom
+15.5,8,318,145,4140,13.7,77,1,dodge monaco brougham
+34,4,112,88,2395,18,82,1,chevrolet cavalier 2-door
+30,4,98,68,2155,16.5,78,1,chevrolet chevette
+19.9,8,260,110,3365,15.5,78,1,oldsmobile cutlass salon brougham
+15,8,429,198,4341,10,70,1,ford galaxie 500
+22.4,6,231,110,3415,15.8,81,1,buick century
+21,4,122,86,2226,16.5,72,1,ford pinto runabout
+29.8,4,89,62,1845,15.3,80,2,vokswagen rabbit
+22,6,198,95,2833,15.5,70,1,plymouth duster
+34.2,4,105,70,2200,13.2,79,1,plymouth horizon
+27,4,97,60,1834,19,71,2,volkswagen model 111
+29,4,97,75,2171,16,75,3,toyota corolla
+11,8,400,150,4997,14,73,1,chevrolet impala
+22,4,121,76,2511,18,72,2,volkswagen 411 (sw)
+19,6,232,90,3211,17,75,1,amc pacer
+16,8,304,150,3433,12,70,1,amc rebel sst
+26,4,121,113,2234,12.5,70,2,bmw 2002
+32.4,4,108,75,2350,16.8,81,3,toyota corolla
+18,6,199,97,2774,15.5,70,1,amc hornet
+14,8,454,220,4354,9,70,1,chevrolet impala
+39.4,4,85,70,2070,18.6,78,3,datsun b210 gx
+17,6,231,110,3907,21,75,1,buick century
+18,6,232,100,2789,15,73,1,amc gremlin
+18,8,307,130,3504,12,70,1,chevrolet chevelle malibu
+35.1,4,81,60,1760,16.1,81,3,honda civic 1300
+25.5,4,122,96,2300,15.5,77,1,plymouth arrow gs
+26,4,116,75,2246,14,74,2,fiat 124 tc
+31,4,119,82,2720,19.4,82,1,chevy s-10
+36,4,98,70,2125,17.3,82,1,mercury lynx l
+21,6,199,90,2648,15,70,1,amc gremlin
+21,4,120,87,2979,19.5,72,2,peugeot 504 (sw)
+27.9,4,156,105,2800,14.4,80,1,dodge colt
+13,8,360,175,3821,11,73,1,amc ambassador brougham
+11,8,429,208,4633,11,72,1,mercury marquis
+26,4,98,79,2255,17.7,76,1,dodge colt
+22.3,4,140,88,2890,17.3,79,1,ford fairmont 4
+10,8,307,200,4376,15,70,1,chevy c20
+26.6,8,350,105,3725,19,81,1,oldsmobile cutlass ls
+17.5,6,258,95,3193,17.8,76,1,amc pacer d/l
